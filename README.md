@@ -1,10 +1,10 @@
-Functional Programming Principles in Scala
-=====
+# Functional Programming Principles in Scala
 
-by École Polytechnique Fédérale de Lausanne - Martin Odersky - Coursera.org
+#### by École Polytechnique Fédérale de Lausanne - Martin Odersky - Coursera.org
 
 -----
 
+[![HitCount](http://hits.dwyl.com/svoit/Scala.svg)](http://hits.dwyl.com/svoit/Scala)
 
 * Week 1: Functions & Evaluation [Assignment: Recursion](/week1_recfun)
 
